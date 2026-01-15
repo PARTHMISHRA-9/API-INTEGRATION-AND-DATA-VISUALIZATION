@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 # -------------------------------
 # Configuration
 # -------------------------------
+# "YOUR_API_KEY_HERE" :replace this with your api key
 API_KEY = "YOUR_API_KEY_HERE"
 CITY = "Mumbai"
 BASE_URL = "https://api.openweathermap.org/data/2.5/forecast"
@@ -52,7 +53,7 @@ def plot_weather(dates, temps, city):
     plt.tight_layout()
     plt.show()
 
-# -------------------------------
+
 # Main Execution
 # -------------------------------
 def main():
