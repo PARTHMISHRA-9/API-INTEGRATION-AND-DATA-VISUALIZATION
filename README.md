@@ -36,6 +36,8 @@ and visualizes temperature trends using Python and Matplotlib.
 
 ## Output
 The script displays a line graph showing temperature forecast for the selected city.
+<img width="448" height="648" alt="image" src="https://github.com/user-attachments/assets/b29bebe3-47fd-46cb-84c9-4caf4c18ec6f" />
+
 
 ## Author
 Intern – Python Developer
